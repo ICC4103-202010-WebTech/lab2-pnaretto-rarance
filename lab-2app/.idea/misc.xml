@@ -3,9 +3,5 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="rbenv: 2.6.3" project-jdk-type="RUBY_SDK" />
-=======
-  <component name="ProjectRootManager" version="2" project-jdk-name="RVM: ruby-2.6.3 [global]" project-jdk-type="RUBY_SDK" />
->>>>>>> ff58eb0986273d6b1c8e10a4a35fd8bcc6d6da03
 </project>
