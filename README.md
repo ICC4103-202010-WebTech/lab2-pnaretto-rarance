@@ -1,2 +1,7 @@
 # lab2-pnaretto-rarance
-Commit de Roberto
+
+Lab made by:
+
+Pedro Naretto
+             &
+Roberto Arance
